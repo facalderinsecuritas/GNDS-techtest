@@ -66,4 +66,6 @@ Requisitos:
 
 Para obtener el tiempo que hace en días siguientes utiliza la api OpenWeatherMap, con el endpoint https://api.openweathermap.org/data/2.5/forecast puedes obtener el tiempo de los próximos 5 días, por lo cual no añadas mas de 4-5 ciudades a tu itinerario. 
 Utiliza el siguiente appid para conectarte: 81661a80d1ff51022770527c91bfbcb3
-Dejamos aquí un enlace con la documentación: Weather API - OpenWeatherMap
+Dejamos aquí un enlace con la documentación: https://openweathermap.org/api
+
+Una vez este realizada la prueba sube un commit en el cual ponga 'TERMINADO' y nos avisas por email, para nosotros saber que esta listo
